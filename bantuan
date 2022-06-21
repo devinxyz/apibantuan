@@ -1,0 +1,13 @@
+{"success":true,"products":[
+
+    {
+        "id":"1", "url":"https://images.pexels.com/photos/3182796/pexels-photo-3182796.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260", "judul":"Team A'ang Kos", "keterangan":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae. Sed ut perspiciatis unde."
+    },
+
+    {
+        "id":"2", "url":"https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260", "judul":"Team A'ang Kos", "keterangan":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae. Sed ut perspiciatis unde."
+        }
+    
+    
+    ],"totalRecordCount":10,"version":"17.0.13"}
+    
